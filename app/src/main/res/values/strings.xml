@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS478 EditContactApp</string>
+    <string name="welcome_text">Welcome to EditContact App</string>
+    <string name="button1_text">Fill Name</string>
+    <string name="button2_text">Create Contact</string>
+    <string name="edit_text_hint">FirstName + LastName</string>
+    <string name="enter_full_name">Enter Full Name</string>
+</resources>
