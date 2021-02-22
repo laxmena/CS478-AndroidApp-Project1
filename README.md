@@ -28,6 +28,9 @@ git clone https://github.com/laxmena/CS478-AndroidApp-Project1.git
         <td>
             <img src="images/2.png" width="200"/>
         </td>
+        <td>
+            <img src="images/6.png" width="200"/>
+        </td>
     </tr>
 </table>
 
@@ -45,13 +48,6 @@ git clone https://github.com/laxmena/CS478-AndroidApp-Project1.git
         </td>
     </tr>
 </table>
-
-
-**Error Alert**
-
-Full Name validation conditions: No numeric values, should contain a first and a last name.
-
-<img src="images/6.png" width="200"/>
 
 ## Additional Information
 If you have any additional questions, feedbacks, suggestions or recommendations, feel free to contact me through [Email](mailto:WriteTo@laxmena.com) or [LinkedIn](https://www.linkedin.com/in/lakshmanan-meiyappan/).
