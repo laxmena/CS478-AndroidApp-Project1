@@ -20,29 +20,36 @@ git clone https://github.com/laxmena/CS478-AndroidApp-Project1.git
 
 **Portrait View**
 
-1. Home Screen
-
-<img src="images/1.png" width="200"/>
-
-2. Activity2 - Fill Name
-
-<img src="images/2.png" width="200"/>
+<table>
+    <tr>
+        <td>
+            <img src="images/1.png" width="200"/>
+        </td>
+        <td>
+            <img src="images/2.png" width="200"/>
+        </td>
+    </tr>
+</table>
 
 **Landscape View**
 
-1. Home Screen
+<table>
+    <tr>
+        <td>
+        <img src="images/3.png" height="200"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="images/4.png" height="200"/>
+        </td>
+    </tr>
+</table>
 
-<img src="images/3.png" height="200"/>
-
-2. Activity2 - Fill Name
-
-<img src="images/4.png" height="200"/>
 
 **Error Alert**
 
 Full Name validation conditions: No numeric values, should contain a first and a last name.
-
-1. Full Name Validator - Error message
 
 <img src="images/6.png" width="200"/>
 
